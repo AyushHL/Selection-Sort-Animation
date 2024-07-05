@@ -1,4 +1,4 @@
-Welcome to Selection Sort Animation, a visual representation of the Selection Sort algorithm implemented in C.
+  Welcome to Selection Sort Animation, a visual representation of the Selection Sort algorithm implemented in C.
 
 Features
 •	Sorting Visualization: Visual representation of the Selection Sort algorithm steps.
@@ -7,7 +7,7 @@ Features
 
 Installation
 1.	Clone the repository:
-git clone https://github.com/AyushHL/Selection-Sort-Animation.GIT
+git clone https://github.com/AyushHL/Selection-Sort-Animation.git
 
 2.	Compile the code:
 cd Selection-Sort-Animation

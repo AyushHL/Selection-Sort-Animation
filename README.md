@@ -7,13 +7,13 @@ Features
 
 Installation
 1.	Clone the repository:
-git clone https://github.com/AyushHL/Selection-Sort-Animation
+git clone https://github.com/AyushHL/Selection-Sort-Animation.GIT
 
-3.	Compile the code:
+2.	Compile the code:
 cd Selection-Sort-Animation
 gcc -o selection_sort SelectionSortAnimation.c
 
-4.	Run the animation:
+3.	Run the animation:
 ./selection_sort
 
 The animation will demonstrate the Selection Sort algorithm on a predefined array.

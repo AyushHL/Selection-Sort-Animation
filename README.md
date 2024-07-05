@@ -7,13 +7,13 @@ Features
 
 Installation
 1.	Clone the repository:
-git clone https://github.com/your-username/selection-sort-animation.git
+git clone https://github.com/AyushHL/Selection-Sort-Animation
 
-2.	Compile the code:
-cd selection-sort-animation
-gcc -o selection_sort main.c
+3.	Compile the code:
+cd Selection-Sort-Animation
+gcc -o selection_sort SelectionSortAnimation.c
 
-3.	Run the animation:
+4.	Run the animation:
 ./selection_sort
 
 The animation will demonstrate the Selection Sort algorithm on a predefined array.
@@ -24,7 +24,7 @@ Usage
 •	The animation will demonstrate how Selection Sort arranges elements in ascending order.
 
 Files
-•	main.c: Contains the main logic for Selection Sort algorithm and console animation.
+•	SelectionSortAnimation.c: Contains the main logic for Selection Sort algorithm and console animation.
 •	README.md: This file providing information about the project.
 
 Tech Stack

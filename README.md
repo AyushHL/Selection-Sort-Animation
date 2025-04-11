@@ -15,7 +15,7 @@ A visual representation of the Selection Sort algorithm implemented in C.
 
 1. Clone the repository:  
    ```bash
-   git clone https:/github.com/YourUsername/Selection-Sort-Animation.git  
+   git clone https://github.com/YourUsername/Selection-Sort-Animation.git  
    ```  
 
 2. Compile the code:  
